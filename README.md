@@ -7,7 +7,7 @@ We built a convolutional neural network in MATLAB, with MFCC features of short a
 <img src="Airplane/airplane_4_33.png" style="width:800px">
 <caption><center> Figure 1. Aircraft Noise Classification Training Progress.</center></caption>
 
-The training result of 6 acoustic events classification was less accurate, with approximately 90% training accuracy and 75% validation accuracy (Fig. 2).
+The training result of the 6 acoustic events classification was less accurate, with approximately 90% training accuracy and 75% validation accuracy (Fig. 2).
 
 <img src="Soundscape/command_net.png" style="width:800px">
 <caption><center> Figure 2. Acoustic Events Classification Training Progress.</center></caption>
